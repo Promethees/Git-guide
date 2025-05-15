@@ -17,6 +17,9 @@ This README is your step-by-step guide to understanding **Git** and **GitHub**, 
 **Git** is a tool that helps you keep track of changes to files, like a super-powered "Track Changes" in a document. It’s widely used for teamwork, allowing multiple people to work on the same project without overwriting each other's work.
 
 ### Key Git Concepts
+- **Repository (abbr. Repo)**: A directory (storage) that is managed by Git to keep track on project's files, history, ...
+- **Local**: The Git repository on YOUR computer, where you directly work with the code.
+- **Remote**: The online version that your local is linked with, which allows collboration and backup.
 - **Git Clone**: Copy a project from an online storage (like GitHub) to your computer.
 - **Git Stage**: Select a group of your changes you'd like to deliver together for a purpose (Which you can add a message attached to it)
 - **Git Commit**: Save a snapshot of your changes, like saving a version of your work with a note about what you did.
