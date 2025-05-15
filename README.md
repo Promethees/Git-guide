@@ -44,6 +44,7 @@ Think of Git like a shared notebook: you can add your notes (commit), share them
    - Download it from [desktop.github.com](https://desktop.github.com).
    - Install and sign in with your GitHub account.
 
+
 3. **Set Up GitHub Mobile** (Optional):
    - Download the GitHub app from the App Store (iOS) or Google Play (Android).
    - Sign in to view projects, check updates, or manage tasks on the go.
@@ -62,6 +63,9 @@ Think of Git like a shared notebook: you can add your notes (commit), share them
 ## Setting Up Your Environment
 
 To use Git and GitHub, you need to install **Git** and **GitHub Desktop** on your computer. Below are instructions for Linux, Mac, and Windows.
+Github Desktop interface: 
+
+![GitHub Desktop](images/GithubDesktop.png)
 
 ### 1. Linux
 - **Install Git**:
@@ -127,7 +131,7 @@ Collaborating on GitHub is like working on a shared document. Here’s how to do
    - **Communicate**: Tell your team what you’re working on to avoid overlap.
 
 4. **Consulting AI for Self-Help**:
-   - Use tools like **Grok** (available on [grok.com](https://grok.com) or the X app) to ask questions like:
+   - Use tools like **Chat GPT** (available on [chatgpt.com](https://chatgpt.com)) to ask questions like:
      - "How do I resolve a Git conflict?"
      - "What does ‘git pull’ do?"
    - Be specific in your questions for better answers.
